@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-	* main - print _putchar.c
-	* Description: default description
-	* Return: 0
+ * main - print _putchar.c
+ * Description: default description
+ * Return: 0
 */
 
 int main(void)
