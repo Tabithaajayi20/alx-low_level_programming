@@ -1,21 +1,21 @@
 #include "main.h"
 
 /**
-	* main - default description
+	* main - print _putchar.c
 	* Description: default description
 	* Return: 0
 */
 
 int main(void)
 {
-	char tmp[] = "_putchar";
-	int i = 0;
-
-	while (i < 8)
-	{
-		_putchar(tmp[i++]);
-	}
-	_putchar('\n');
-	return (0);
+putchar('_');
+putchar('p');
+putchar('u');
+putchar('t');
+putchar('c');
+putchar('h');
+putchar('a');
+putchar('r');
+putchar('\n');
+return(0);
 }
-
