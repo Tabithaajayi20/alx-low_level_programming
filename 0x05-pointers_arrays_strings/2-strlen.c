@@ -10,7 +10,8 @@ size_t _strlen(const char *str)
 {
 	size_t length = 0;
 
-	while
-		(length = 0, length++);
+	while (*str++)
+		length++;
+
 	return (length);
 }
