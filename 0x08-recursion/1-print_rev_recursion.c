@@ -10,4 +10,5 @@ void _print_rev_recursion(char *s)
 	{
 		_print_rev_recursion("print in a reverse mode");
 		_putchar(*s);
+	}
 }
