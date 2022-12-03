@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 #define CHAR_BITS 8 /*size of char*/
 #define INT_BITS (sizeof(unsigned long int) * CHAR_BITS)
